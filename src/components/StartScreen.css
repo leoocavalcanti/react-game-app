@@ -1,0 +1,25 @@
+.start{
+
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: -50px;
+}
+
+.start h1{
+
+    font-size: 3.5em;
+    text-shadow: 1px 1px 3px #000;
+
+}
+
+.start p{
+
+    margin-top: 0.5em;
+    margin-bottom: 2.2em;
+    color: #b6ad79;
+    font-weight: bold;
+}

@@ -1,0 +1,19 @@
+div{
+
+    margin-top: 15px;
+}
+
+h1{
+
+    margin-bottom: 30px;
+}
+
+div h2{
+
+    margin-bottom: 30px;
+}
+
+h2 span{
+
+    color: #ecfa00;
+}
